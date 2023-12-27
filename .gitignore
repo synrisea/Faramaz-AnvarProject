@@ -1,0 +1,9 @@
+
+*.json
+*.sqlite
+*.opendb
+*.db-shm
+.vs/Faramaz-AnvarProject/v17/.wsuo
+*.db
+*.db-wal
+*.vsidx
