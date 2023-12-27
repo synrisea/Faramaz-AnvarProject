@@ -1,6 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
 project(OurProject)
+find_package(Boost REQUIRED)
 add_executable(OurProject main.cpp factorials.cpp factorials.h combinations.cpp combinations.h countGoodStrings.cpp countGoodStrings.h)
-
-
-target_link_libraries(OurProject gtest boost)
+target_link_libraries(OurProject gtest Boost::headers)
