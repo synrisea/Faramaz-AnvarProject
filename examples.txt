@@ -1,0 +1,11 @@
+Here will be your examples for testing : 
+
+Add this to your txt file in build, without using quotes. Each example have to be in different line
+to read this.
+
+""
+"a"
+"aa"
+"aabb"
+"leet"
+"abcd"
